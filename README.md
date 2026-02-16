@@ -1,5 +1,7 @@
 # 🚀 CVM Data Pipeline: Uma Jornada em Big Data com PySpark
 
+![Banner do Projeto CVM](img.png)
+
 ## 📌 Visão Geral do Projeto
 
 Este projeto foi desenvolvido como um estudo prático e intensivo sobre Engenharia de Dados e Analytics utilizando dados reais da Comissão de Valores Mobiliários (CVM) referentes a janeiro de 2024.
